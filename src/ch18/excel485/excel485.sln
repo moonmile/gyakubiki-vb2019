@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "excel485", "excel485\excel485.vbproj", "{B33ACA46-A03B-4907-A85E-F9A3A4261CE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B33ACA46-A03B-4907-A85E-F9A3A4261CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33ACA46-A03B-4907-A85E-F9A3A4261CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33ACA46-A03B-4907-A85E-F9A3A4261CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33ACA46-A03B-4907-A85E-F9A3A4261CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72CE8B78-A3BE-49BE-9791-1E8C17DF36F8}
+	EndGlobalSection
+EndGlobal

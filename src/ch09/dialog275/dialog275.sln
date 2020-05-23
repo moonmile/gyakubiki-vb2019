@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dialog275", "dialog275\dialog275.vbproj", "{6F465032-4848-4CA1-8D0C-EAB1EA839735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F465032-4848-4CA1-8D0C-EAB1EA839735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F465032-4848-4CA1-8D0C-EAB1EA839735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F465032-4848-4CA1-8D0C-EAB1EA839735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F465032-4848-4CA1-8D0C-EAB1EA839735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FFA1907-A792-4165-9B84-16C523A5FE10}
+	EndGlobalSection
+EndGlobal

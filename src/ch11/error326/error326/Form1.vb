@@ -1,0 +1,10 @@
+﻿Public Class Form1
+    Private Sub button1_Click(sender As Object, e As EventArgs) Handles button1.Click
+        Dim Text = textBox1.Text
+        Try
+            Dim a = Integer.Parse(Text)
+        Catch ex As FormatException
+            MessageBox.Show(ex.Message, "エラー発生")
+        End Try
+    End Sub
+End Class

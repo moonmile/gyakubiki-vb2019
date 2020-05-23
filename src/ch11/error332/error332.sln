@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "error332", "error332\error332.vbproj", "{BAF6E63A-C093-4E5A-AAF2-E60F8D758698}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF6E63A-C093-4E5A-AAF2-E60F8D758698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF6E63A-C093-4E5A-AAF2-E60F8D758698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF6E63A-C093-4E5A-AAF2-E60F8D758698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF6E63A-C093-4E5A-AAF2-E60F8D758698}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C88CFD-6648-4E67-98DA-376019D99719}
+	EndGlobalSection
+EndGlobal
